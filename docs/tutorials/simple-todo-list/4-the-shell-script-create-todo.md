@@ -18,7 +18,7 @@ A *shell script* is a piece of code intended to be called from the command line.
 Open the new generated file in the `src/scripts` directory and update its content.
 
 ```typescript
-// 3p
+// 3rd party
 import { createConnection } from 'typeorm';
 
 // App
